@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class pruebaAgenda {
 
 	public static void main(String[] args) {
-		int totalPersonas = 0; //testing third commit after creating readme file
+		int totalPersonas = 0; //testing third commit after creating readme files
 		
 		int entrarAlMenu = 0; //testing second commit
 		
