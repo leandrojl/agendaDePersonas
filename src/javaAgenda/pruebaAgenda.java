@@ -7,7 +7,7 @@ public class pruebaAgenda {
 	public static void main(String[] args) {
 		int totalPersonas = 0;
 		
-		int entrarAlMenu = 0;
+		int entrarAlMenu = 0; //testing second commit
 		
 		int salirDelProgramaPrincipal = 1; //VARIABLE PARA SALIR DEL PROGRAMA
 		
